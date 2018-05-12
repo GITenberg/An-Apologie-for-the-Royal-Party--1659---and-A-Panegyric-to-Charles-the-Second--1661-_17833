@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6100
     wikipedia: http://en.wikipedia.org/wiki/John_Evelyn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17833#An-Apologie-for-the-Royal-Party--1659---and-A-Panegyric-to-Charles-the-Second--1661-
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2006-02-23'
 gutenberg_type: Text
