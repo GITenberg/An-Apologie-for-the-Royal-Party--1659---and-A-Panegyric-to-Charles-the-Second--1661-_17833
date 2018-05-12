@@ -1,0 +1,40 @@
+_repo: An-Apologie-for-the-Royal-Party--1659---and-A-Panegyric-to-Charles-the-Second--1661-_17833
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Keynes, Geoffrey
+    alias: Keynes, Geoffrey Langdon, Sir
+    birthdate: 1887
+    deathdate: 1982
+    gutenberg_agent_id: '7628'
+    url: http://www.gutenberg.org/2009/agents/7628
+    wikipedia: http://en.wikipedia.org/wiki/Geoffrey_Keynes
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Evelyn, John
+    birthdate: 1620
+    deathdate: 1706
+    gutenberg_agent_id: '6100'
+    url: http://www.gutenberg.org/2009/agents/6100
+    wikipedia: http://en.wikipedia.org/wiki/John_Evelyn
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2006-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17833'
+  lccn: '51012971'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Charles II, King of England, 1630-1685 -- Early works to 1800'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- Politics and government -- 1649-1660 -- Pamphlets'
+title: An Apologie for the Royal Party (1659); and A Panegyric to Charles the Second
+  (1661)
+url: http://www.gutenberg.org/ebooks/17833
